@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="login">Login</string>
+    <string name="i_am_a_teacher">I am a teacher</string>
+    <string name="i_am_a_student">I am a student</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="displayed_name">Displayed name</string>
+    <string name="material_name">Material name</string>
+    <string name="unknown_user">Unknown user</string>
+    <string name="user_already_exists">An user with this email or username already exists</string>
+    <string name="at_least_six_caracters">At least 6 caracters</string>
+    <string name="course_found">Course %1$s Teacher %2$s Student %3$s</string>
+    <string name="teacher_must_generate_code">Your teacher must generate a code for each studient in class and send yours</string>
+    <string name="get_started">Get started</string>
+    <string name="choose_role">Start by choosing your profile</string>
+    <string name="get_feedbacks">Get feedbacks from my teachers</string>
+    <string name="give_feedbacks">Share feedbacks to my students</string>
+    <string name="create_account">Create an account</string>
+    <string name="email_or_username">Email or username</string>
+    <string name="join_course">Join course</string>
+    <string name="add_course">Add a course</string>
+    <string name="enter_class_code">Enter class code</string>
+    <string name="courses">Courses</string>
+    <string name="controls">Controls</string>
+    <string name="email">Email</string>
+    <string name="add_students">Add students</string>
+    <string name="students">Students</string>
+    <string name="enter_student_name_or_list">Enter student name or list of students separated by a newline</string>
+    <string name="add_control">Add control</string>
+    <string name="enter_control_name">Enter control name</string>
+    <string name="classes">Classes</string>
+    <string name="enter_class_name">Enter class name</string>
+</resources>

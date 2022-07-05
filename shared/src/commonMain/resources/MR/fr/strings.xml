@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="login">Se connecter</string>
+    <string name="i_am_a_teacher">Enseignant</string>
+    <string name="i_am_a_student">Élève</string>
+    <string name="password">Mot de passe</string>
+    <string name="username">Nom d\'utilisateur</string>
+    <string name="displayed_name">Nom affiché</string>
+    <string name="material_name">Nom de la matière</string>
+    <string name="unknown_user">Utilisateur inconnu</string>
+    <string name="user_already_exists">Un utilisateur avec cet email ou nom d\'utilisateur existe déjà</string>
+    <string name="at_least_six_caracters">Au moins 6 cararctères</string>
+    <string name="course_found">Cours %1$s Enseignant %2$s élève %3$s</string>
+    <string name="teacher_must_generate_code">Votre enseignant doit générer un code pour chaque étudiant et vous donner le votre</string>
+    <string name="get_started">Commencez</string>
+    <string name="choose_role">Choisissez votre profil</string>
+    <string name="get_feedbacks">Recevoir des feedbacks de mes enseignants</string>
+    <string name="give_feedbacks">Partager des feedbacks à mes élèves</string>
+    <string name="create_account">Créer un compte</string>
+    <string name="email_or_username">Email ou nom d\'utilisateur</string>
+    <string name="join_course">Rejoindre le cours</string>
+    <string name="add_course">Ajouter une classe</string>
+    <string name="enter_class_code">Entrer le code de la classe</string>
+    <string name="courses">Cours</string>
+    <string name="controls">Évaluations</string>
+    <string name="email">Email</string>
+    <string name="add_students">Ajouter des élèves</string>
+    <string name="students">Elèves</string>
+    <string name="enter_student_name_or_list">Entrer le nom de l\'élève ou la liste des élèves séparé par une nouvelle ligne</string>
+    <string name="add_control">Ajouter une évaluation</string>
+    <string name="enter_control_name">Entrer un nom d\'évaluation</string>
+    <string name="classes">Classes</string>
+    <string name="enter_class_name">Entrer le nom de la classe</string>
+</resources>
